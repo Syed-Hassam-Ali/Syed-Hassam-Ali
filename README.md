@@ -1,12 +1,12 @@
 <div id="profileCounter">
   <img src="https://komarev.com/ghpvc/?username=Syed-Hassam-Ali&style=flat-square&color=blue" alt=""/>
 </div>
-<h1>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <h1>
+    Hey there 👋 
+  </h1>
+  <img src="dev-image.png" width="250" height="250"/>
 </div>
 
 ---
@@ -33,7 +33,6 @@ I am a Native iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original.svg" title="Source Tree" alt="Source Tree" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="50" height="50"/>&nbsp;
 </div>
-
 
 ---
 
