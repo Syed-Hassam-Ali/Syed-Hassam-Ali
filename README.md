@@ -1,12 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/syed-hassam/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<div id="profileCounter" align="center">
+<div id="profileCounter">
   <img src="https://komarev.com/ghpvc/?username=Syed-Hassam-Ali&style=flat-square&color=blue" alt=""/>
 </div>
 <h1>
@@ -46,10 +38,27 @@ I am a Native iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Syed-Hassam-Ali&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Syed-Hassam-Ali&theme=dark" alt="GitHub Streak">
+</a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Syed-Hassam-Ali)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Syed-Hassam-Ali" alt="Anurag's GitHub stats">
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Hassam-Ali&layout=compact&theme=vision-friendly-dark" alt="Top Langs">
+</a>
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Hassam-Ali&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+## 🔗 Let's Connect 
+<div id="badges" align="center">
+  <a href="mailto:syedhassamali05@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://linkedin.com/in/syed-hassam">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
