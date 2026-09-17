@@ -99,10 +99,8 @@ Senior iOS Developer with **6+ years** building and scaling production iOS apps 
       <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Syed-Hassam-Ali&theme=github_dark" width="49%" alt="Hassam's GitHub profile summary"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Syed-Hassam-Ali&theme=github_dark" width="41%" alt="Top languages"/>
-
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Syed-Hassam-Ali&theme=tokyonight" width="70%" alt="GitHub streak stats"/>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Syed-Hassam-Ali&theme=github_dark" width="41%" 
+ alt="Top languages"/>
       </div>
 
       ---
