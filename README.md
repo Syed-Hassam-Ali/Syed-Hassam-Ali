@@ -31,11 +31,11 @@ Senior iOS Developer with **6+ years** building and scaling production iOS apps 
 - 🎓 Selected as one of **1,400+ applicants** for a Stanford-funded fellowship (Amal Academy)
 - 🟢 Currently open to **Senior / Staff iOS roles** — feel free to connect
      
-      - ---
+---
 
       ### 💼 Experience
 
-      | Role | Company | Duration |
+    | Role | Company | Duration |
       |---|---|---|
       | **iOS Engineer, L4** | Motive · Remote | Apr 2025 – Aug 2026 |
       | **iOS Consultant** | The White Boutique · Hybrid | Oct 2024 – Mar 2025 |
