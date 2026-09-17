@@ -31,7 +31,7 @@ Senior iOS Developer with **6+ years** building and scaling production iOS apps 
 - 🎓 Selected as one of **1,400+ applicants** for a Stanford-funded fellowship (Amal Academy)
 - 🟢 Currently open to **Senior / Staff iOS roles** — feel free to connect
      
----
+<hr/>
 
       ### 💼 Experience
 
@@ -62,7 +62,7 @@ Senior iOS Developer with **6+ years** building and scaling production iOS apps 
 - 🚘 [Jeeny Driver](https://apps.apple.com/us/app/jeeny-drive-and-earn-money/id1456609782) — App Store
 - 🎁 [The White Boutique](https://apps.apple.com/us/app/the-white-boutique/id6702011858) — App Store
 
-      ---
+<hr/>
 
       ### 🛠️ Tech Stack
 
