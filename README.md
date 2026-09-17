@@ -27,9 +27,9 @@
 Senior iOS Developer with **6+ years** building and scaling production iOS apps for **ride-hailing and location-based products** — most recently at **Motive**, on the Driver App used by thousands of commercial drivers across North America, and before that at **Jeeny**, where our driver/rider apps served thousands of users across Saudi Arabia and Jordan.
 
 - 📱 Native iOS — Swift, SwiftUI, UIKit, RxSwift, with working knowledge of Objective-C
-- - 🏗️ Comfortable owning features end-to-end — architecture, performance, CI/CD (Fastlane, Jenkins)
-  - - 🎓 Selected as one of **1,400+ applicants** for a Stanford-funded fellowship (Amal Academy)
-    - - 🟢 Currently open to **Senior / Staff iOS roles** — feel free to connect
+- 🏗️ Comfortable owning features end-to-end — architecture, performance, CI/CD (Fastlane, Jenkins)
+- 🎓 Selected as one of **1,400+ applicants** for a Stanford-funded fellowship (Amal Academy)
+- 🟢 Currently open to **Senior / Staff iOS roles** — feel free to connect
      
       - ---
 
@@ -57,22 +57,10 @@ Senior iOS Developer with **6+ years** building and scaling production iOS apps 
 
       ### 📱 Apps I've Shipped
 
-      <div align="center">
-
-      <a href="https://apps.apple.com/us/app/motive-driver/id706401738" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Motive%20Driver-App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-      </a>
-      <a href="https://apps.apple.com/us/app/jeeny-book-affordable-rides/id1178701124" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Jeeny%20Passenger-App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-      </a>
-      <a href="https://apps.apple.com/us/app/jeeny-drive-and-earn-money/id1456609782" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Jeeny%20Driver-App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-      </a>
-      <a href="https://apps.apple.com/us/app/the-white-boutique/id6702011858" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/The%20White%20Boutique-App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-      </a>
-
-      </div>
+- 🚛 [Motive Driver](https://apps.apple.com/us/app/motive-driver/id706401738) — App Store
+- 🚕 [Jeeny Passenger](https://apps.apple.com/us/app/jeeny-book-affordable-rides/id1178701124) — App Store
+- 🚘 [Jeeny Driver](https://apps.apple.com/us/app/jeeny-drive-and-earn-money/id1456609782) — App Store
+- 🎁 [The White Boutique](https://apps.apple.com/us/app/the-white-boutique/id6702011858) — App Store
 
       ---
 
