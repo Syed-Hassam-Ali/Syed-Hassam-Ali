@@ -17,6 +17,9 @@
 <a href="mailto:syedhassamali05@gmail.com" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<a href="https://github.com/Syed-Hassam-Ali/Syed-Hassam-Ali/blob/main/Hassam-Ali-Resume.pdf" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Resume-PDF-0f6e8c?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
 
 </div>
 
@@ -102,6 +105,9 @@ alt="Top languages"/>
 </a>
 <a href="mailto:syedhassamali05@gmail.com" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Syed-Hassam-Ali/Syed-Hassam-Ali/blob/main/Hassam-Ali-Resume.pdf" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Resume-PDF-0f6e8c?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
 </div>
