@@ -60,10 +60,10 @@ Senior iOS Developer with **6+ years** building and scaling production iOS apps 
 
 ### 📱 Apps I've Shipped
 
-- 🚛 [Motive Driver](https://apps.apple.com/us/app/motive-driver/id706401738) — App Store
-- 🚕 [Jeeny Passenger](https://apps.apple.com/us/app/jeeny-book-affordable-rides/id1178701124) — App Store
-- 🚘 [Jeeny Driver](https://apps.apple.com/us/app/jeeny-drive-and-earn-money/id1456609782) — App Store
-- 🎁 [The White Boutique](https://apps.apple.com/us/app/the-white-boutique/id6702011858) — App Store
+- 🚛 [Motive Driver](https://apps.apple.com/us/app/motive-driver/id706401738) — App Store — Fleet compliance app for commercial drivers (HOS & cycle tracking), built at Motive
+- 🚕 [Jeeny Passenger](https://apps.apple.com/us/app/jeeny-book-affordable-rides/id1178701124) — App Store — Ride-hailing app for passengers in Saudi Arabia & Jordan, built at Jeeny
+- 🚘 [Jeeny Driver](https://apps.apple.com/us/app/jeeny-drive-and-earn-money/id1456609782) — App Store — Driver-side ride-hailing app for Jeeny's Saudi Arabia & Jordan fleet, built at Jeeny
+- 🎁 [The White Boutique](https://apps.apple.com/us/app/the-white-boutique/id6702011858) — App Store — UAE-based luxury gifting & scheduled-delivery platform, built as iOS Consultant
 
 <hr/>
 
