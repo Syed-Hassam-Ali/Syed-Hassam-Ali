@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Hassam%20Ali&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20iOS%20Developer%20(Swift%20%2F%20SwiftUI)&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://www.linkedin.com/in/syed-hassam/" target="_blank" rel="noopener noreferrer">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Senior+iOS+Developer+%7C+Swift+%26+SwiftUI;Building+Ride-Hailing+%26+Fleet-Tech+Apps+at+Scale;Ex-Motive%2C+Ex-Jeeny;Open+to+Senior%2FStaff+Roles!&font=Fira+Code&center=true&width=600&height=50&color=00C6FF&vCenter=true&size=22&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Senior+iOS+Developer+%7C+Swift+%26+SwiftUI;Building+Ride-Hailing+%26+Fleet-Tech+Apps+at+Scale;Ex-Motive%2C+Ex-Jeeny;Open+to+Senior%2FStaff+Roles!&font=Fira+Code&center=true&width=760&height=50&color=00C6FF&vCenter=true&size=22&pause=1000" />
 </a>
 
 <br/>
